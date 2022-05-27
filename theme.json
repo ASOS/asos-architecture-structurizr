@@ -1,0 +1,284 @@
+{
+  "name": "ASOS Structurizr Basic Theme",
+  "description": "This theme includes our preferred colours and identifiers for shapes in Structurizr, as well as  icons for our most common Azure services, based upon the Microsoft Azure Cloud and AI Symbol / Icon Set - SVG (https://www.microsoft.com/en-us/download/details.aspx?id=41937).",
+  "elements": [
+    {
+      "tag": "Element",
+      "background": "",
+      "color": "#2d2d2d",
+      "stroke": "#2d2d2d"
+    },
+    {
+      "tag": "Software System",
+      "background": "#9fc5e8",
+      "color": "#ffffff"
+    },
+    {
+      "tag": "Container",
+      "background": "#cfe2f3",
+      "color": "#ffffff"
+    },
+    {
+      "tag": "Component",
+      "background": "#ebf6ff",
+      "color": "#000000"
+    },
+    {
+      "tag": "Person",
+      "background": "",
+      "color": "#2d2d2d",
+      "stroke": "#2d2d2d",
+      "icon": "https://raw.githubusercontent.com/asosteam/asos-architecture-structurizr/main/docs/icons/My_Customers.png"
+    },
+    {
+      "tag": "New",
+      "background": "#c7ffef",
+      "color": "#2d2d2d",
+      "stroke": "#009E73"
+    },
+    {
+      "tag": "Modified",
+      "background": "#ffe1a1",
+      "color": "#2d2d2d",
+      "stroke": "#E69F00"
+    },
+    {
+      "tag": "Removed",
+      "background": "#ff9c8f",
+      "color": "#2d2d2d",
+      "stroke": "#D55E00"
+    },
+    {
+      "tag": "Function Apps",
+      "icon": "https://raw.githubusercontent.com/asosteam/asos-architecture-structurizr/main/docs/icons/Function_Apps.png"
+    },
+    {
+      "tag": "Virtual Network (Classic)",
+      "icon": "https://raw.githubusercontent.com/asosteam/asos-architecture-structurizr/main/docs/icons/Virtual_Networks.png"
+    },
+    {
+      "tag": "API Management Services",
+      "icon": "https://raw.githubusercontent.com/asosteam/asos-architecture-structurizr/main/docs/icons/API_Management_Services.png"
+    },
+    {
+      "tag": "Subscriptions",
+      "icon": "https://raw.githubusercontent.com/asosteam/asos-architecture-structurizr/main/docs/icons/Subscriptions.png"
+    },
+    {
+      "tag": "SQL Databases",
+      "icon": "https://raw.githubusercontent.com/asosteam/asos-architecture-structurizr/main/docs/icons/SQL_Databases.png"
+    },
+    {
+      "tag": "Cloud Services (Classic)",
+      "icon": "https://raw.githubusercontent.com/asosteam/asos-architecture-structurizr/main/docs/icons/Cloud_Services.png"
+    },
+    {
+      "tag": "Automation Accounts",
+      "icon": "https://raw.githubusercontent.com/asosteam/asos-architecture-structurizr/main/docs/icons/Automation_Accounts.png"
+    },
+    {
+      "tag": "Queues Storage",
+      "icon": "https://raw.githubusercontent.com/asosteam/asos-architecture-structurizr/main/docs/icons/Queues_Storage.png"
+    },
+    {
+      "tag": "Azure SQL DataWarehouse",
+      "icon": "https://raw.githubusercontent.com/asosteam/asos-architecture-structurizr/main/docs/icons/Azure_SQL_DataWarehouse.png"
+    },
+    {
+      "tag": "Azure Search",
+      "icon": "https://raw.githubusercontent.com/asosteam/asos-architecture-structurizr/main/docs/icons/Azure_Search.png"
+    },
+    {
+      "tag": "Azure Data Catalog",
+      "icon": "https://raw.githubusercontent.com/asosteam/asos-architecture-structurizr/main/docs/icons/Azure_Data_Catalog.png"
+    },
+    {
+      "tag": "Cloud Services",
+      "icon": "https://raw.githubusercontent.com/asosteam/asos-architecture-structurizr/main/docs/icons/Cloud_Services.png"
+    },
+    {
+      "tag": "Container Registries",
+      "icon": "https://raw.githubusercontent.com/asosteam/asos-architecture-structurizr/main/docs/icons/Container_Registries.png"
+    },
+    {
+      "tag": "General Storage",
+      "icon": "https://raw.githubusercontent.com/asosteam/asos-architecture-structurizr/main/docs/icons/General_Storage.png"
+    },
+    {
+      "tag": "Data Lake Storage",
+      "icon": "https://raw.githubusercontent.com/asosteam/asos-architecture-structurizr/main/docs/icons/Data_Lake_Storage.png"
+    },
+    {
+      "tag": "Azure Service Bus Relays",
+      "icon": "https://raw.githubusercontent.com/asosteam/asos-architecture-structurizr/main/docs/icons/Azure_Service_Bus_Relays.png"
+    },
+    {
+      "tag": "App Service Environments",
+      "icon": "https://raw.githubusercontent.com/asosteam/asos-architecture-structurizr/main/docs/icons/App_Service_Environments.png"
+    },
+    {
+      "tag": "SendGrid Accounts",
+      "icon": "https://raw.githubusercontent.com/asosteam/asos-architecture-structurizr/main/docs/icons/SendGrid_Accounts.png"
+    },
+    {
+      "tag": "Azure Cosmos DB",
+      "icon": "https://raw.githubusercontent.com/asosteam/asos-architecture-structurizr/main/docs/icons/Azure_Cosmos_DB.png"
+    },
+    {
+      "tag": "Dedicated Event Hub",
+      "icon": "https://raw.githubusercontent.com/asosteam/asos-architecture-structurizr/main/docs/icons/Dedicated_Event_Hub.png"
+    },
+    {
+      "tag": "Elastic Database Pools",
+      "icon": "https://raw.githubusercontent.com/asosteam/asos-architecture-structurizr/main/docs/icons/Elastic_Database_Pools.png"
+    },
+    {
+      "tag": "Azure Database (Generic)",
+      "icon": "https://raw.githubusercontent.com/asosteam/asos-architecture-structurizr/main/docs/icons/Azure_Database_(Generic).png"
+    },
+    {
+      "tag": "Local Network Gateways",
+      "icon": "https://raw.githubusercontent.com/asosteam/asos-architecture-structurizr/main/docs/icons/Local_Network_Gateways.png"
+    },
+    {
+      "tag": "App Services",
+      "icon": "https://raw.githubusercontent.com/asosteam/asos-architecture-structurizr/main/docs/icons/App_Services.png"
+    },
+    {
+      "tag": "Application Insights",
+      "icon": "https://raw.githubusercontent.com/asosteam/asos-architecture-structurizr/main/docs/icons/Application_Insights.png"
+    },
+    {
+      "tag": "Event Hubs",
+      "icon": "https://raw.githubusercontent.com/asosteam/asos-architecture-structurizr/main/docs/icons/Event_Hubs.png"
+    },
+    {
+      "tag": "Azure Databricks",
+      "icon": "https://raw.githubusercontent.com/asosteam/asos-architecture-structurizr/main/docs/icons/Azure_Databricks.png"
+    },
+    {
+      "tag": "Azure Cache for Redis",
+      "icon": "https://raw.githubusercontent.com/asosteam/asos-architecture-structurizr/main/docs/icons/Azure_Cache_for_Redis.png"
+    },
+    {
+      "tag": "Service Fabric Clusters",
+      "icon": "https://raw.githubusercontent.com/asosteam/asos-architecture-structurizr/main/docs/icons/Service_Fabric_Clusters.png"
+    },
+    {
+      "tag": "Active Directory",
+      "icon": "https://raw.githubusercontent.com/asosteam/asos-architecture-structurizr/main/docs/icons/Active_Directory.png"
+    },
+    {
+      "tag": "Front Doors",
+      "icon": "https://raw.githubusercontent.com/asosteam/asos-architecture-structurizr/main/docs/icons/Front_Doors.png"
+    },
+    {
+      "tag": "Storage Accounts (classic)",
+      "icon": "https://raw.githubusercontent.com/asosteam/asos-architecture-structurizr/main/docs/icons/Storage_Accounts_(classic).png"
+    },
+    {
+      "tag": "Network Security Groups (Classic)",
+      "icon": "https://raw.githubusercontent.com/asosteam/asos-architecture-structurizr/main/docs/icons/Network_Security_Groups_(Classic).png"
+    },
+    {
+      "tag": "Application Gateway",
+      "icon": "https://raw.githubusercontent.com/asosteam/asos-architecture-structurizr/main/docs/icons/Application_Gateway.png"
+    },
+    {
+      "tag": "Virtual Networks",
+      "icon": "https://raw.githubusercontent.com/asosteam/asos-architecture-structurizr/main/docs/icons/Virtual_Networks.png"
+    },
+    {
+      "tag": "Container Instances",
+      "icon": "https://raw.githubusercontent.com/asosteam/asos-architecture-structurizr/main/docs/icons/Container_Instances.png"
+    },
+    {
+      "tag": "Event Grid Topics",
+      "icon": "https://raw.githubusercontent.com/asosteam/asos-architecture-structurizr/main/docs/icons/Event_Grid_Topics.png"
+    },
+    {
+      "tag": "User Icon",
+      "icon": "https://raw.githubusercontent.com/asosteam/asos-architecture-structurizr/main/docs/icons/User_Icon.png"
+    },
+    {
+      "tag": "Azure Service Bus",
+      "icon": "https://raw.githubusercontent.com/asosteam/asos-architecture-structurizr/main/docs/icons/Azure_Service_Bus.png"
+    },
+    {
+      "tag": "Web App Firewall",
+      "icon": "https://raw.githubusercontent.com/asosteam/asos-architecture-structurizr/main/docs/icons/Web_App_Firewall.png"
+    },
+    {
+      "tag": "Data Lake",
+      "icon": "https://raw.githubusercontent.com/asosteam/asos-architecture-structurizr/main/docs/icons/Data_Lake.png"
+    },
+    {
+      "tag": "Load Balancers",
+      "icon": "https://raw.githubusercontent.com/asosteam/asos-architecture-structurizr/main/docs/icons/Load_Balancers.png"
+    },
+    {
+      "tag": "Event Grid Subscriptions",
+      "icon": "https://raw.githubusercontent.com/asosteam/asos-architecture-structurizr/main/docs/icons/Event_Grid_Subscriptions.png"
+    },
+    {
+      "tag": "Kubernetes Services",
+      "icon": "https://raw.githubusercontent.com/asosteam/asos-architecture-structurizr/main/docs/icons/Kubernetes_Services.png"
+    },
+    {
+      "tag": "Storage Accounts",
+      "icon": "https://raw.githubusercontent.com/asosteam/asos-architecture-structurizr/main/docs/icons/Storage_Accounts.png"
+    },
+    {
+      "tag": "Stream Analytics Jobs",
+      "icon": "https://raw.githubusercontent.com/asosteam/asos-architecture-structurizr/main/docs/icons/Stream_Analytics_Jobs.png"
+    },
+    {
+      "tag": "Azure Cache plus Redis",
+      "icon": "https://raw.githubusercontent.com/asosteam/asos-architecture-structurizr/main/docs/icons/Azure_Cache_plus_Redis.png"
+    },
+    {
+      "tag": "Azure Firewall",
+      "icon": "https://raw.githubusercontent.com/asosteam/asos-architecture-structurizr/main/docs/icons/Azure_Firewall.png"
+    },
+    {
+      "tag": "Key Vaults",
+      "icon": "https://raw.githubusercontent.com/asosteam/asos-architecture-structurizr/main/docs/icons/Key_Vaults.png"
+    },
+    {
+      "tag": "Table Storage",
+      "icon": "https://raw.githubusercontent.com/asosteam/asos-architecture-structurizr/main/docs/icons/Table_Storage.png"
+    },
+    {
+      "tag": "Data Factories",
+      "icon": "https://raw.githubusercontent.com/asosteam/asos-architecture-structurizr/main/docs/icons/Data_Factories.png"
+    },
+    {
+      "tag": "Logic Apps",
+      "icon": "https://raw.githubusercontent.com/asosteam/asos-architecture-structurizr/main/docs/icons/Logic_Apps.png"
+    },
+    {
+      "tag": "Logic Apps Custom Connector",
+      "icon": "https://raw.githubusercontent.com/asosteam/asos-architecture-structurizr/main/docs/icons/Logic_Apps_Custom_Connector.png"
+    },
+    {
+      "tag": "Blob Storage",
+      "icon": "https://raw.githubusercontent.com/asosteam/asos-architecture-structurizr/main/docs/icons/Blob_Storage.png"
+    },
+    {
+      "tag": "Cognitive Services",
+      "icon": "https://raw.githubusercontent.com/asosteam/asos-architecture-structurizr/main/docs/icons/Cognitive_Services.png"
+    },
+    {
+      "tag": "SQL Servers",
+      "icon": "https://raw.githubusercontent.com/asosteam/asos-architecture-structurizr/main/docs/icons/SQL_Servers.png"
+    },
+    {
+      "tag": "ExpressRoute Circuits",
+      "icon": "https://raw.githubusercontent.com/asosteam/asos-architecture-structurizr/main/docs/icons/ExpressRoute_Circuits.png"
+    },
+    {
+      "tag": "Application Security Groups",
+      "icon": "https://raw.githubusercontent.com/asosteam/asos-architecture-structurizr/main/docs/icons/Application_Security_Groups.png"
+    }
+  ]
+}

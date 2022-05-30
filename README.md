@@ -8,9 +8,9 @@ The `theme.json` file contains the most commonly used azure and kubernetes icons
 
 Include the theme reference in your structurizr DSL as follows:
 
-`theme  https://raw.githubusercontent.com/asosteam/asos-architecture-structurizr/main/theme.json`
+`theme  https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/theme.json`
 
-(Note - this URL may change when it is in its final public repo)
+
 
 ## Standard Colours
 | element | Appearance |

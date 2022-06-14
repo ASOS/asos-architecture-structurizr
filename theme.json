@@ -299,15 +299,15 @@
     },
     {
       "tag": "New",
-      "colour": "#009E73"
+      "color": "#009E73"
     },
     {
       "tag": "Modified",
-      "colour": "#E69F00"
+      "color": "#E69F00"
     },
     {
       "tag": "Removed",
-      "colour": "#D55E00"
+      "color": "#D55E00"
     }
 
   ]

@@ -8,18 +8,6 @@
       "icon": "https://dthsharedstorag.z6.web.core.windows.net/asos.png"
     },
     {
-      "tag": "sync",
-      "style":"solid",
-      "routing": "Curved"
-
-    },
-    {
-      "tag": "async",
-      "style":"dashed",
-      "routing": "Curved"
-
-    },
-    {
       "tag": "Element",
       "background": "",
       "color": "#2d2d2d",
@@ -296,6 +284,18 @@
     {
       "tag": "Application Security Groups",
       "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Application_Security_Groups.png"
+    }
+  ],
+  "relationships": [{
+      "tag": "sync",
+      "style": "solid",
+      "routing": "Curved"
+
+    },
+    {
+      "tag": "async",
+      "style": "dashed",
+      "routing": "Curved"
     }
   ]
 }

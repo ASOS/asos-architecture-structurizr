@@ -290,9 +290,7 @@
     {
       "tag": "Sync",
       "style": "solid",
-      "routing": "Curved",
-      "thickness": 10
-      
+      "routing": "Curved"
     },
     {
       "tag": "Async",
@@ -301,15 +299,15 @@
     },
     {
       "tag": "New",
-      "stroke": "#009E73"
+      "colour": "#009E73"
     },
     {
       "tag": "Modified",
-      "stroke": "#E69F00"
+      "colour": "#E69F00"
     },
     {
       "tag": "Removed",
-      "stroke": "#D55E00"
+      "colour": "#D55E00"
     }
 
   ]

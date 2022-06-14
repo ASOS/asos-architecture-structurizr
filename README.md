@@ -16,6 +16,7 @@ Include the theme reference in your structurizr DSL as follows:
 | element | Appearance |
 |---|---|
 | Person  | <img src="./images/customer.png" style="height: 150px" />  |
+| ASOS  | <img src="./images/asos-software-system.png" style="height: 150px" />  |
 | softwareSystem, container, component  | <img src="./images/software-system.png" style="height: 150px" />  |
 
 

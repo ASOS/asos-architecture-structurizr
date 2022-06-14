@@ -10,7 +10,8 @@
     },
     {
       "tag": "asos",
-      "shape": "RoundedBox"
+      "shape": "RoundedBox",
+      "icon": "https://dthsharedstorag.z6.web.core.windows.net/asos.png"
     },
     {
       "tag": "Software System",

@@ -5,7 +5,7 @@
     {
       "tag": "asos",
       "shape": "RoundedBox",
-      "icon": "https://dthsharedstorag.z6.web.core.windows.net/asos.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/asos.png"
     },
     {
       "tag": "Element",

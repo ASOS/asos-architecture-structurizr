@@ -3,6 +3,10 @@
   "description": "This theme includes our preferred colours and identifiers for shapes in Structurizr, as well as  icons for our most common Azure services, based upon the Microsoft Azure Cloud and AI Symbol / Icon Set - SVG (https://www.microsoft.com/en-us/download/details.aspx?id=41937).",
   "elements": [
     {
+      "tag": "Asos",
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/asos.png"
+    },
+    {
       "tag": "Element",
       "background": "",
       "color": "#2d2d2d",
@@ -281,4 +285,5 @@
       "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Application_Security_Groups.png"
     }
   ]
+  
 }

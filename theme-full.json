@@ -3,6 +3,56 @@
   "description": "This theme includes icons for each of the Azure services, based upon the Microsoft Azure Cloud and AI Symbol / Icon Set - SVG (https://www.microsoft.com/en-us/download/details.aspx?id=41937).",
   "elements": [
     {
+      "tag": "Asos",      
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/asos.png"
+    },
+    {
+      "tag": "Element",
+      "background": "",
+      "color": "#2d2d2d",
+      "stroke": "#2d2d2d"
+    },
+    {
+      "tag": "Software System",
+      "background": "#9fc5e8",
+      "color": "#ffffff"
+    },
+    {
+      "tag": "Container",
+      "background": "#cfe2f3",
+      "color": "#ffffff"
+    },
+    {
+      "tag": "Component",
+      "background": "#ebf6ff",
+      "color": "#000000"
+    },
+    {
+      "tag": "Person",
+      "background": "",
+      "color": "#2d2d2d",
+      "stroke": "#2d2d2d",
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/My_Customers.png"
+    },
+    {
+      "tag": "New",
+      "background": "#c7ffef",
+      "color": "#2d2d2d",
+      "stroke": "#009E73"
+    },
+    {
+      "tag": "Modified",
+      "background": "#ffe1a1",
+      "color": "#2d2d2d",
+      "stroke": "#E69F00"
+    },
+    {
+      "tag": "Removed",
+      "background": "#ff9c8f",
+      "color": "#2d2d2d",
+      "stroke": "#D55E00"
+    },
+    {
       "tag": "Spatial Anchor",
       "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Spatial_Anchor.png"
     },

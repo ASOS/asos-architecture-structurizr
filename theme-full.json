@@ -5,15 +5,15 @@
     {
       "tag": "Element",
       "color": "#2d2d2d",
-      "stroke": "#2d2d2d",
-      "background": "#9fc5e8"
+      "stroke": "#2d2d2d"
     },
     {
       "tag": "Asos",
-      "icon": "https://dthsharedstorag.z6.web.core.windows.net/asos.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/asos.png"
     },
     {
       "tag": "Person",
+      "background": "#9fc5e8",
       "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/My_Customers.png"
     },
     {

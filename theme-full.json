@@ -1014,5 +1014,27 @@
       "tag": "Azure Test Plans",
       "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Azure_Test_Plans.png"
     }
+  ],
+  "relationships":[
+    {
+      "tag": "Sync",
+      "style": "solid"
+    },
+    {
+      "tag": "Async",
+      "styles": "dashed"
+    },
+    {
+      "tag": "New",
+      "colour": "#009E73"
+    },
+    {
+      "tag": "Modified",
+      "colour": "#E69F00"
+    },
+    {
+      "tag": "Removed",
+      "colour": "#D55E00"
+    }
   ]
 }

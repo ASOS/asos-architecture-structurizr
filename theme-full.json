@@ -3,36 +3,31 @@
   "description": "This theme includes icons for each of the Azure services, based upon the Microsoft Azure Cloud and AI Symbol / Icon Set - SVG (https://www.microsoft.com/en-us/download/details.aspx?id=41937).",
   "elements": [
     {
-      "tag": "Asos",      
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/asos.png"
+      "tag": "Asos",
+      "icon": "https://dthsharedstorag.z6.web.core.windows.net/asos.png"
     },
     {
       "tag": "Element",
-      "background": "",
       "color": "#2d2d2d",
       "stroke": "#2d2d2d"
     },
     {
       "tag": "Software System",
-      "background": "#9fc5e8",
-      "color": "#ffffff"
+      "background": "#9fc5e8"
     },
     {
       "tag": "Container",
-      "background": "#cfe2f3",
-      "color": "#ffffff"
+      "background": "#cfe2f3"
     },
     {
       "tag": "Component",
-      "background": "#ebf6ff",
-      "color": "#000000"
+      "background": "#ebf6ff"
+      
     },
     {
       "tag": "Person",
-      "background": "",
-      "color": "#2d2d2d",
-      "stroke": "#2d2d2d",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/My_Customers.png"
+      "background": "#9fc5e8",
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/My_Customers.png"
     },
     {
       "tag": "New",

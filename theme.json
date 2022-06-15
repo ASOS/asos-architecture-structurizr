@@ -5,7 +5,7 @@
     {
       "tag": "Asos",
       "shape": "RoundedBox",
-      "icon": "https://dthsharedstorag.z6.web.core.windows.net/asos.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/asos.png"
     },
     {
       "tag": "Element",
@@ -285,30 +285,6 @@
       "tag": "Application Security Groups",
       "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Application_Security_Groups.png"
     }
-  ],
-  "relationships": [
-    {
-      "tag": "Sync",
-      "style": "solid",
-      "routing": "Curved"
-    },
-    {
-      "tag": "Async",
-      "style": "dashed",
-      "routing": "Curved"
-    },
-    {
-      "tag": "New",
-      "color": "#009E73"
-    },
-    {
-      "tag": "Modified",
-      "color": "#E69F00"
-    },
-    {
-      "tag": "Removed",
-      "color": "#D55E00"
-    }
-
   ]
+  
 }

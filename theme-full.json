@@ -17,6 +17,18 @@
       "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/My_Customers.png"
     },
     {
+      "tag": "Software System",
+      "background": "#9fc5e8"
+    },
+    {
+      "tag": "Container",
+      "background": "#cfe2f3"
+    },
+    {
+      "tag": "Component",
+      "background": "#ebf6ff"
+    },
+    {
       "tag": "New",
       "background": "#c7ffef",
       "color": "#2d2d2d",

@@ -3,8 +3,7 @@
   "description": "This theme includes icons for each of the Azure services, based upon the Microsoft Azure Cloud and AI Symbol / Icon Set - SVG (https://www.microsoft.com/en-us/download/details.aspx?id=41937).",
   "elements": [
     {
-      "tag": "Asos",
-      "shape": "RoundedBox",
+      "tag": "Asos",      
       "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/asos.png"
     },
     {

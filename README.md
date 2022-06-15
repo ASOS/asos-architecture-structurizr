@@ -16,8 +16,9 @@ Include the theme reference in your structurizr DSL as follows:
 | element | Appearance |
 |---|---|
 | Person  | <img src="./images/customer.png" style="height: 150px" />  |
-| ASOS  | <img src="./images/asos-software-system.png" style="height: 150px" />  |
-| softwareSystem, container, component  | <img src="./images/software-system.png" style="height: 150px" />  |
+| softwareSystem,| <img src="./images/software-system.png" style="height: 150px" />  |
+| container | <img src="./images/container.png" style="height: 150px" />  |
+| component  | <img src="./images/component.png" style="height: 150px" />  |
 
 
 ## Standard Tags
@@ -27,6 +28,7 @@ Include the theme reference in your structurizr DSL as follows:
 | New | <img src="./images/new-service.png" style="height: 150px" /> |
 | Modified | <img src="./images/modified-service.png" style="height: 150px" /> |
 | Removed | <img src="./images/removed-service.png" style="height: 150px" /> |
+| ASOS  | <img src="./images/asos-software-system.png" style="height: 150px" />  |
 
 
 

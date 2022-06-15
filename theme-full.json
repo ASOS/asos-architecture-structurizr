@@ -3,36 +3,30 @@
   "description": "This theme includes icons for each of the Azure services, based upon the Microsoft Azure Cloud and AI Symbol / Icon Set - SVG (https://www.microsoft.com/en-us/download/details.aspx?id=41937).",
   "elements": [
     {
-      "tag": "Asos",      
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/asos.png"
-    },
-    {
       "tag": "Element",
-      "background": "",
       "color": "#2d2d2d",
       "stroke": "#2d2d2d"
     },
     {
-      "tag": "Software System",
-      "background": "#9fc5e8",
-      "color": "#ffffff"
-    },
-    {
-      "tag": "Container",
-      "background": "#cfe2f3",
-      "color": "#ffffff"
-    },
-    {
-      "tag": "Component",
-      "background": "#ebf6ff",
-      "color": "#000000"
+      "tag": "Asos",
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/asos.png"
     },
     {
       "tag": "Person",
-      "background": "",
-      "color": "#2d2d2d",
-      "stroke": "#2d2d2d",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/My_Customers.png"
+      "background": "#9fc5e8",
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/My_Customers.png"
+    },
+    {
+      "tag": "Software System",
+      "background": "#9fc5e8"
+    },
+    {
+      "tag": "Container",
+      "background": "#cfe2f3"
+    },
+    {
+      "tag": "Component",
+      "background": "#ebf6ff"
     },
     {
       "tag": "New",
@@ -54,971 +48,971 @@
     },
     {
       "tag": "Spatial Anchor",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Spatial_Anchor.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Spatial_Anchor.png"
     },
     {
       "tag": "Function Apps",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Function_Apps.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Function_Apps.png"
     },
     {
       "tag": "Virtual Network (Classic)",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Virtual_Network_(Classic).png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Virtual_Network_(Classic).png"
     },
     {
       "tag": "Image Definitions",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Image_Definitions.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Image_Definitions.png"
     },
     {
       "tag": "DeveloperTools",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/DeveloperTools.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/DeveloperTools.png"
     },
     {
       "tag": "API Management Services",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/API_Management_Services.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/API_Management_Services.png"
     },
     {
       "tag": "Active Directory Connect Health",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Active_Directory_Connect_Health.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Active_Directory_Connect_Health.png"
     },
     {
       "tag": "Azure Mobile Engagement",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Azure_Mobile_Engagement.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Azure_Mobile_Engagement.png"
     },
     {
       "tag": "Subscriptions",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Subscriptions.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Subscriptions.png"
     },
     {
       "tag": "Azure Database for MariaDB servers",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Azure_Database_for_MariaDB_servers.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Azure_Database_for_MariaDB_servers.png"
     },
     {
       "tag": "Event Hub Clusters",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Event_Hub_Clusters.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Event_Hub_Clusters.png"
     },
     {
       "tag": "Tenant Status",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Tenant_Status.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Tenant_Status.png"
     },
     {
       "tag": "SQL Databases",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/SQL_Databases.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/SQL_Databases.png"
     },
     {
       "tag": "Azure Boards",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Azure_Boards.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Azure_Boards.png"
     },
     {
       "tag": "VM-windows",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/VM-windows.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/VM-windows.png"
     },
     {
       "tag": "Machine Learning Studio Web Service Plans",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Machine_Learning_Studio_Web_Service_Plans.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Machine_Learning_Studio_Web_Service_Plans.png"
     },
     {
       "tag": "Shared Dashboard",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Shared_Dashboard.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Shared_Dashboard.png"
     },
     {
       "tag": "Support",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Support.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Support.png"
     },
     {
       "tag": "Managed Databases",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Managed_Databases.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Managed_Databases.png"
     },
     {
       "tag": "Machine Learning Studio Web Services",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Machine_Learning_Studio_Web_Services.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Machine_Learning_Studio_Web_Services.png"
     },
     {
       "tag": "eBooks",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/eBooks.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/eBooks.png"
     },
     {
       "tag": "Conditional Access",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Conditional_Access.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Conditional_Access.png"
     },
     {
       "tag": "Device Config",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Device_Config.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Device_Config.png"
     },
     {
       "tag": "DDOS Protection Plans",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/DDOS_Protection_Plans.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/DDOS_Protection_Plans.png"
     },
     {
       "tag": "VM",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/VM.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/VM.png"
     },
     {
       "tag": "Cloud Services (Classic)",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Cloud_Services_(Classic).png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Cloud_Services_(Classic).png"
     },
     {
       "tag": "SignalR",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/SignalR.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/SignalR.png"
     },
     {
       "tag": "CloudSimple Services",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/CloudSimple_Services.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/CloudSimple_Services.png"
     },
     {
       "tag": "Security Center",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Security_Center.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Security_Center.png"
     },
     {
       "tag": "Enrollment",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Enrollment.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Enrollment.png"
     },
     {
       "tag": "Azure Maps",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Azure_Maps.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Azure_Maps.png"
     },
     {
       "tag": "Identity governance",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Identity_governance.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Identity_governance.png"
     },
     {
       "tag": "Azure AD Privileged Identity Management",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Azure_AD_Privileged_Identity_Management.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Azure_AD_Privileged_Identity_Management.png"
     },
     {
       "tag": "Support Requests",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Support_Requests.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Support_Requests.png"
     },
     {
       "tag": "Automation Accounts",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Automation_Accounts.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Automation_Accounts.png"
     },
     {
       "tag": "Templates",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Templates.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Templates.png"
     },
     {
       "tag": "VM (Classic)",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/VM_(Classic).png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/VM_(Classic).png"
     },
     {
       "tag": "Queues Storage",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Queues_Storage.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Queues_Storage.png"
     },
     {
       "tag": "Azure SQL DataWarehouse",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Azure_SQL_DataWarehouse.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Azure_SQL_DataWarehouse.png"
     },
     {
       "tag": "Azure Search",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Azure_Search.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Azure_Search.png"
     },
     {
       "tag": "Azure IoT Hub",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Azure_IoT_Hub.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Azure_IoT_Hub.png"
     },
     {
       "tag": "Two User Icon",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Two_User_Icon.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Two_User_Icon.png"
     },
     {
       "tag": "Azure Data Catalog",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Azure_Data_Catalog.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Azure_Data_Catalog.png"
     },
     {
       "tag": "Policy",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Policy.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Policy.png"
     },
     {
       "tag": "Service Catalog Managed Application Definitions",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Service_Catalog_Managed_Application_Definitions.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Service_Catalog_Managed_Application_Definitions.png"
     },
     {
       "tag": "User Privacy",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/User_Privacy.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/User_Privacy.png"
     },
     {
       "tag": "HDInsightClusters",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/HDInsightClusters.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/HDInsightClusters.png"
     },
     {
       "tag": "Public IP Addresses",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Public_IP_Addresses.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Public_IP_Addresses.png"
     },
     {
       "tag": "Blueprints",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Blueprints.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Blueprints.png"
     },
     {
       "tag": "Azure DevTest Labs",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Azure_DevTest_Labs.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Azure_DevTest_Labs.png"
     },
     {
       "tag": "Cloud Services",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Cloud_Services.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Cloud_Services.png"
     },
     {
       "tag": "Storage Sync Services",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Storage_Sync_Services.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Storage_Sync_Services.png"
     },
     {
       "tag": "Network Interfaces",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Network_Interfaces.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Network_Interfaces.png"
     },
     {
       "tag": "Azure AD Identity Protection",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Azure_AD_Identity_Protection.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Azure_AD_Identity_Protection.png"
     },
     {
       "tag": "Container Registries",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Container_Registries.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Container_Registries.png"
     },
     {
       "tag": "General Storage",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/General_Storage.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/General_Storage.png"
     },
     {
       "tag": "Integration Service Environments",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Integration_Service_Environments.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Integration_Service_Environments.png"
     },
     {
       "tag": "Data Lake Analytics",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Data_Lake_Analytics.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Data_Lake_Analytics.png"
     },
     {
       "tag": "Managed Desktop",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Managed_Desktop.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Managed_Desktop.png"
     },
     {
       "tag": "App Service Plans",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/App_Service_Plans.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/App_Service_Plans.png"
     },
     {
       "tag": "DNS Zones",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/DNS_Zones.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/DNS_Zones.png"
     },
     {
       "tag": "Data Lake Storage",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Data_Lake_Storage.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Data_Lake_Storage.png"
     },
     {
       "tag": "Intune App Protection",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Intune_App_Protection.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Intune_App_Protection.png"
     },
     {
       "tag": "App Service Certificates",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/App_Service_Certificates.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/App_Service_Certificates.png"
     },
     {
       "tag": "Integration Accounts",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Integration_Accounts.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Integration_Accounts.png"
     },
     {
       "tag": "Azure Repos",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Azure_Repos.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Azure_Repos.png"
     },
     {
       "tag": "Azure Service Bus Relays",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Azure_Service_Bus_Relays.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Azure_Service_Bus_Relays.png"
     },
     {
       "tag": "CDN Profiles",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/CDN_Profiles.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/CDN_Profiles.png"
     },
     {
       "tag": "App Service Domains",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/App_Service_Domains.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/App_Service_Domains.png"
     },
     {
       "tag": "Availability Sets",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Availability_Sets.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Availability_Sets.png"
     },
     {
       "tag": "Recent",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Recent.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Recent.png"
     },
     {
       "tag": "Storage Explorer",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Storage_Explorer.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Storage_Explorer.png"
     },
     {
       "tag": "Azure Sentinel",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Azure_Sentinel.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Azure_Sentinel.png"
     },
     {
       "tag": "App Service Environments",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/App_Service_Environments.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/App_Service_Environments.png"
     },
     {
       "tag": "Azure Sphere",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Azure_Sphere.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Azure_Sphere.png"
     },
     {
       "tag": "Batch AI",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Batch_AI.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Batch_AI.png"
     },
     {
       "tag": "VM Scale Sets",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/VM_Scale_Sets.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/VM_Scale_Sets.png"
     },
     {
       "tag": "IoT Central Applications",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/IoT_Central_Applications.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/IoT_Central_Applications.png"
     },
     {
       "tag": "SendGrid Accounts",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/SendGrid_Accounts.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/SendGrid_Accounts.png"
     },
     {
       "tag": "Azure Cosmos DB",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Azure_Cosmos_DB.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Azure_Cosmos_DB.png"
     },
     {
       "tag": "Tag",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Tag.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Tag.png"
     },
     {
       "tag": "Dedicated Event Hub",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Dedicated_Event_Hub.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Dedicated_Event_Hub.png"
     },
     {
       "tag": "Route Tables",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Route_Tables.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Route_Tables.png"
     },
     {
       "tag": "Help + Support",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Help_+_Support.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Help_+_Support.png"
     },
     {
       "tag": "Elastic Database Pools",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Elastic_Database_Pools.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Elastic_Database_Pools.png"
     },
     {
       "tag": "Azure Database (Generic)",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Azure_Database_(Generic).png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Azure_Database_(Generic).png"
     },
     {
       "tag": "Disk Snapshots",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Disk_Snapshots.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Disk_Snapshots.png"
     },
     {
       "tag": "Local Network Gateways",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Local_Network_Gateways.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Local_Network_Gateways.png"
     },
     {
       "tag": "App Services",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/App_Services.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/App_Services.png"
     },
     {
       "tag": "Virtual WANs",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Virtual_WANs.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Virtual_WANs.png"
     },
     {
       "tag": "Resource Groups",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Resource_Groups.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Resource_Groups.png"
     },
     {
       "tag": "Application Insights",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Application_Insights.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Application_Insights.png"
     },
     {
       "tag": "Event Hubs",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Event_Hubs.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Event_Hubs.png"
     },
     {
       "tag": "Notification Hubs",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Notification_Hubs.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Notification_Hubs.png"
     },
     {
       "tag": "Log Analytics Workspaces",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Log_Analytics_Workspaces.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Log_Analytics_Workspaces.png"
     },
     {
       "tag": "Connections",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Connections.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Connections.png"
     },
     {
       "tag": "Notification Hub Namespaces",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Notification_Hub_Namespaces.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Notification_Hub_Namespaces.png"
     },
     {
       "tag": "VM-Linux-non-azure",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/VM-Linux-non-azure.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/VM-Linux-non-azure.png"
     },
     {
       "tag": "Content Protection",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Content_Protection.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Content_Protection.png"
     },
     {
       "tag": "Azure Databricks",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Azure_Databricks.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Azure_Databricks.png"
     },
     {
       "tag": "Data Box Edge   Data Box Gateway",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Data_Box_Edge___Data_Box_Gateway.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Data_Box_Edge___Data_Box_Gateway.png"
     },
     {
       "tag": "Mesh Applications",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Mesh_Applications.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Mesh_Applications.png"
     },
     {
       "tag": "Advisor",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Advisor.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Advisor.png"
     },
     {
       "tag": "VM-windows-non-azure",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/VM-windows-non-azure.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/VM-windows-non-azure.png"
     },
     {
       "tag": "Recovery Services Vaults",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Recovery_Services_Vaults.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Recovery_Services_Vaults.png"
     },
     {
       "tag": "SQL Managed Instances",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/SQL_Managed_Instances.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/SQL_Managed_Instances.png"
     },
     {
       "tag": "Quick Start Center",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Quick_Start_Center.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Quick_Start_Center.png"
     },
     {
       "tag": "Image Versions",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Image_Versions.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Image_Versions.png"
     },
     {
       "tag": "Time Series Insights Events Sources",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Time_Series_Insights_Events_Sources.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Time_Series_Insights_Events_Sources.png"
     },
     {
       "tag": "Cost Management + Billing",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Cost_Management_+_Billing.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Cost_Management_+_Billing.png"
     },
     {
       "tag": "Time Series Insights environments",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Time_Series_Insights_environments.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Time_Series_Insights_environments.png"
     },
     {
       "tag": "SAP HANA on Azure",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/SAP_HANA_on_Azure.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/SAP_HANA_on_Azure.png"
     },
     {
       "tag": "Azure AD B2C",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Azure_AD_B2C.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Azure_AD_B2C.png"
     },
     {
       "tag": "Azure Artifacts",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Azure_Artifacts.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Azure_Artifacts.png"
     },
     {
       "tag": "Service Endpoint Policies",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Service_Endpoint_Policies.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Service_Endpoint_Policies.png"
     },
     {
       "tag": "Azure Cache for Redis",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Azure_Cache_for_Redis.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Azure_Cache_for_Redis.png"
     },
     {
       "tag": "Tools",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Tools.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Tools.png"
     },
     {
       "tag": "Service Fabric Clusters",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Service_Fabric_Clusters.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Service_Fabric_Clusters.png"
     },
     {
       "tag": "Information",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Information.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Information.png"
     },
     {
       "tag": "Active Directory",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Active_Directory.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Active_Directory.png"
     },
     {
       "tag": "Software Update",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Software_Update.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Software_Update.png"
     },
     {
       "tag": "Customer Lockbox",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Customer_Lockbox.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Customer_Lockbox.png"
     },
     {
       "tag": "Alerts",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Alerts.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Alerts.png"
     },
     {
       "tag": "Virtual Network Gateways",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Virtual_Network_Gateways.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Virtual_Network_Gateways.png"
     },
     {
       "tag": "Media On-Demand",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Media_On-Demand.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Media_On-Demand.png"
     },
     {
       "tag": "On-premises Data Gateways",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/On-premises_Data_Gateways.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/On-premises_Data_Gateways.png"
     },
     {
       "tag": "Azure Pipelines",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Azure_Pipelines.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Azure_Pipelines.png"
     },
     {
       "tag": "Exchange On-Premises Access",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Exchange_On-Premises_Access.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Exchange_On-Premises_Access.png"
     },
     {
       "tag": "Controllers",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Controllers.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Controllers.png"
     },
     {
       "tag": "Azure Data Explorer Clusters",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Azure_Data_Explorer_Clusters.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Azure_Data_Explorer_Clusters.png"
     },
     {
       "tag": "Front Doors",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Front_Doors.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Front_Doors.png"
     },
     {
       "tag": "Azure AD Domain Services",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Azure_AD_Domain_Services.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Azure_AD_Domain_Services.png"
     },
     {
       "tag": "Reserved IP Addresses (Classic)",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Reserved_IP_Addresses_(Classic).png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Reserved_IP_Addresses_(Classic).png"
     },
     {
       "tag": "Windows 10 IoT Core Services",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Windows_10_IoT_Core_Services.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Windows_10_IoT_Core_Services.png"
     },
     {
       "tag": "Azure Media Player",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Azure_Media_Player.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Azure_Media_Player.png"
     },
     {
       "tag": "Service Health",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Service_Health.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Service_Health.png"
     },
     {
       "tag": "Storage Accounts (classic)",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Storage_Accounts_(classic).png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Storage_Accounts_(classic).png"
     },
     {
       "tag": "Machine Learning Studio Workspaces",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Machine_Learning_Studio_Workspaces.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Machine_Learning_Studio_Workspaces.png"
     },
     {
       "tag": "Monitor",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Monitor.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Monitor.png"
     },
     {
       "tag": "Network Security Groups (Classic)",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Network_Security_Groups_(Classic).png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Network_Security_Groups_(Classic).png"
     },
     {
       "tag": "Managed Applications",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Managed_Applications.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Managed_Applications.png"
     },
     {
       "tag": "Application Gateway",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Application_Gateway.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Application_Gateway.png"
     },
     {
       "tag": "Migration Projects",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Migration_Projects.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Migration_Projects.png"
     },
     {
       "tag": "Virtual Networks",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Virtual_Networks.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Virtual_Networks.png"
     },
     {
       "tag": "Azure Information Protection",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Azure_Information_Protection.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Azure_Information_Protection.png"
     },
     {
       "tag": "Azure Database for PostgreSQL servers",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Azure_Database_for_PostgreSQL_servers.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Azure_Database_for_PostgreSQL_servers.png"
     },
     {
       "tag": "Shared Image Galleries",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Shared_Image_Galleries.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Shared_Image_Galleries.png"
     },
     {
       "tag": "CloudSimple Virtual Machines",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/CloudSimple_Virtual_Machines.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/CloudSimple_Virtual_Machines.png"
     },
     {
       "tag": "Devices Groups",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Devices_Groups.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Devices_Groups.png"
     },
     {
       "tag": "Analysis Services",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Analysis_Services.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Analysis_Services.png"
     },
     {
       "tag": "Software as a Service (SaaS)",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Software_as_a_Service_(SaaS).png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Software_as_a_Service_(SaaS).png"
     },
     {
       "tag": "Azure DevOps",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Azure_DevOps.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Azure_DevOps.png"
     },
     {
       "tag": "Traffic Manager Profiles",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Traffic_Manager_Profiles.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Traffic_Manager_Profiles.png"
     },
     {
       "tag": "Device Compliance",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Device_Compliance.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Device_Compliance.png"
     },
     {
       "tag": "Container Instances",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Container_Instances.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Container_Instances.png"
     },
     {
       "tag": "Device Provisioning Services",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Device_Provisioning_Services.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Device_Provisioning_Services.png"
     },
     {
       "tag": "Genomics Accounts",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Genomics_Accounts.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Genomics_Accounts.png"
     },
     {
       "tag": "SQL Server stretch Databases",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/SQL_Server_stretch_Databases.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/SQL_Server_stretch_Databases.png"
     },
     {
       "tag": "Client Apps",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Client_Apps.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Client_Apps.png"
     },
     {
       "tag": "Elastic Job Agents",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Elastic_Job_Agents.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Elastic_Job_Agents.png"
     },
     {
       "tag": "Event Grid Topics",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Event_Grid_Topics.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Event_Grid_Topics.png"
     },
     {
       "tag": "DNS Private Zones",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/DNS_Private_Zones.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/DNS_Private_Zones.png"
     },
     {
       "tag": "Resource Graph Explorer",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Resource_Graph_Explorer.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Resource_Graph_Explorer.png"
     },
     {
       "tag": "User Health Icon",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/User_Health_Icon.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/User_Health_Icon.png"
     },
     {
       "tag": "Azure App Service - Mobile",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Azure_App_Service_-_Mobile.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Azure_App_Service_-_Mobile.png"
     },
     {
       "tag": "Network Watcher",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Network_Watcher.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Network_Watcher.png"
     },
     {
       "tag": "User Icon",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/User_Icon.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/User_Icon.png"
     },
     {
       "tag": "StorSimple Data Managers",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/StorSimple_Data_Managers.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/StorSimple_Data_Managers.png"
     },
     {
       "tag": "Tags",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Tags.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Tags.png"
     },
     {
       "tag": "Azure API for FHIR",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Azure_API_for_FHIR.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Azure_API_for_FHIR.png"
     },
     {
       "tag": "Machine Learning Service Workspaces",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Machine_Learning_Service_Workspaces.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Machine_Learning_Service_Workspaces.png"
     },
     {
       "tag": "User Resource",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/User_Resource.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/User_Resource.png"
     },
     {
       "tag": "AzureFXTEdgeFiler",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/AzureFXTEdgeFiler.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/AzureFXTEdgeFiler.png"
     },
     {
       "tag": "VM-non-azure",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/VM-non-azure.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/VM-non-azure.png"
     },
     {
       "tag": "Azure NetApp files",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Azure_NetApp_files.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Azure_NetApp_files.png"
     },
     {
       "tag": "Enterprise Applications",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Enterprise_Applications.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Enterprise_Applications.png"
     },
     {
       "tag": "Azure Digital Twins",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Azure_Digital_Twins.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Azure_Digital_Twins.png"
     },
     {
       "tag": "Azure Service Bus",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Azure_Service_Bus.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Azure_Service_Bus.png"
     },
     {
       "tag": "Bot Services",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Bot_Services.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Bot_Services.png"
     },
     {
       "tag": "Web App Firewall",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Web_App_Firewall.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Web_App_Firewall.png"
     },
     {
       "tag": "Data Lake",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Data_Lake.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Data_Lake.png"
     },
     {
       "tag": "Metrics",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Metrics.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Metrics.png"
     },
     {
       "tag": "Load Balancers",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Load_Balancers.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Load_Balancers.png"
     },
     {
       "tag": "Azure IoT Hub Security",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Azure_IoT_Hub_Security.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Azure_IoT_Hub_Security.png"
     },
     {
       "tag": "Marketplace",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Marketplace.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Marketplace.png"
     },
     {
       "tag": "Event Grid Subscriptions",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Event_Grid_Subscriptions.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Event_Grid_Subscriptions.png"
     },
     {
       "tag": "Managed Identities",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Managed_Identities.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Managed_Identities.png"
     },
     {
       "tag": "Azure Home",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Azure_Home.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Azure_Home.png"
     },
     {
       "tag": "Virtual Clusters",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Virtual_Clusters.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Virtual_Clusters.png"
     },
     {
       "tag": "Kubernetes Services",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Kubernetes_Services.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Kubernetes_Services.png"
     },
     {
       "tag": "Guest Assignments",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Guest_Assignments.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Guest_Assignments.png"
     },
     {
       "tag": "Storage Accounts",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Storage_Accounts.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Storage_Accounts.png"
     },
     {
       "tag": "Stream Analytics Jobs",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Stream_Analytics_Jobs.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Stream_Analytics_Jobs.png"
     },
     {
       "tag": "Virtual Datacenter",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Virtual_Datacenter.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Virtual_Datacenter.png"
     },
     {
       "tag": "CloudSimple Nodes",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/CloudSimple_Nodes.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/CloudSimple_Nodes.png"
     },
     {
       "tag": "Media Encoding",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Media_Encoding.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Media_Encoding.png"
     },
     {
       "tag": "Azure Cache plus Redis",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Azure_Cache_plus_Redis.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Azure_Cache_plus_Redis.png"
     },
     {
       "tag": "Management Groups",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Management_Groups.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Management_Groups.png"
     },
     {
       "tag": "Disks",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Disks.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Disks.png"
     },
     {
       "tag": "Azure Firewall",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Azure_Firewall.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Azure_Firewall.png"
     },
     {
       "tag": "Azure Media Services",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Azure_Media_Services.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Azure_Media_Services.png"
     },
     {
       "tag": "Resource Explorer",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Resource_Explorer.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Resource_Explorer.png"
     },
     {
       "tag": "Azure StorSimple Device Managers",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Azure_StorSimple_Device_Managers.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Azure_StorSimple_Device_Managers.png"
     },
     {
       "tag": "Education",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Education.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Education.png"
     },
     {
       "tag": "Access Review",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Access_Review.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Access_Review.png"
     },
     {
       "tag": "Non-azure-machine",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Non-azure-machine.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Non-azure-machine.png"
     },
     {
       "tag": "App Registrations",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/App_Registrations.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/App_Registrations.png"
     },
     {
       "tag": "App Configuration",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/App_Configuration.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/App_Configuration.png"
     },
     {
       "tag": "Key Vaults",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Key_Vaults.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Key_Vaults.png"
     },
     {
       "tag": "Reservations",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Reservations.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Reservations.png"
     },
     {
       "tag": "Scheduler Job Collections",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Scheduler_Job_Collections.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Scheduler_Job_Collections.png"
     },
     {
       "tag": "StorSimple Device Managers",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/StorSimple_Device_Managers.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/StorSimple_Device_Managers.png"
     },
     {
       "tag": "Archive Storage",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Archive_Storage.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Archive_Storage.png"
     },
     {
       "tag": "VM Images",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/VM_Images.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/VM_Images.png"
     },
     {
       "tag": "Security Baselines",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Security_Baselines.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Security_Baselines.png"
     },
     {
       "tag": "Azure Database for MySQL servers",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Azure_Database_for_MySQL_servers.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Azure_Database_for_MySQL_servers.png"
     },
     {
       "tag": "Table Storage",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Table_Storage.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Table_Storage.png"
     },
     {
       "tag": "Data Factories",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Data_Factories.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Data_Factories.png"
     },
     {
       "tag": "Resource",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Resource.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Resource.png"
     },
     {
       "tag": "Solutions",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Solutions.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Solutions.png"
     },
     {
       "tag": "Logic Apps",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Logic_Apps.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Logic_Apps.png"
     },
     {
       "tag": "Citrix Virtual Desktops Essentials",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Citrix_Virtual_Desktops_Essentials.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Citrix_Virtual_Desktops_Essentials.png"
     },
     {
       "tag": "Batch Accounts",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Batch_Accounts.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Batch_Accounts.png"
     },
     {
       "tag": "Logic Apps Custom Connector",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Logic_Apps_Custom_Connector.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Logic_Apps_Custom_Connector.png"
     },
     {
       "tag": "Blob Storage",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Blob_Storage.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Blob_Storage.png"
     },
     {
       "tag": "Data Box",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Data_Box.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Data_Box.png"
     },
     {
       "tag": "Activity Log",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Activity_Log.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Activity_Log.png"
     },
     {
       "tag": "API Connections",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/API_Connections.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/API_Connections.png"
     },
     {
       "tag": "Cognitive Services",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Cognitive_Services.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Cognitive_Services.png"
     },
     {
       "tag": "OS Images (Classic)",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/OS_Images_(Classic).png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/OS_Images_(Classic).png"
     },
     {
       "tag": "Azure Database Migration Services",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Azure_Database_Migration_Services.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Azure_Database_Migration_Services.png"
     },
     {
       "tag": "VM-Linux",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/VM-Linux.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/VM-Linux.png"
     },
     {
       "tag": "SQL Servers",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/SQL_Servers.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/SQL_Servers.png"
     },
     {
       "tag": "ExpressRoute Circuits",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/ExpressRoute_Circuits.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/ExpressRoute_Circuits.png"
     },
     {
       "tag": "Route Filters",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Route_Filters.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Route_Filters.png"
     },
     {
       "tag": "Data Lake Store Gen1",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Data_Lake_Store_Gen1.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Data_Lake_Store_Gen1.png"
     },
     {
       "tag": "All Resources",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/All_Resources.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/All_Resources.png"
     },
     {
       "tag": "Diagnostic Settings",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Diagnostic_Settings.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Diagnostic_Settings.png"
     },
     {
       "tag": "Event Grid Domains",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Event_Grid_Domains.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Event_Grid_Domains.png"
     },
     {
       "tag": "Application Security Groups",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Application_Security_Groups.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Application_Security_Groups.png"
     },
     {
       "tag": "Free Services",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Free_Services.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Free_Services.png"
     },
     {
       "tag": "Azure Test Plans",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/blob/3a71510c0481c6801015aa6c34c620a7310ca7e5/icons/Azure_Test_Plans.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Azure_Test_Plans.png"
     }
   ]
 }

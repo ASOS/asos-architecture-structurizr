@@ -278,6 +278,28 @@
       "tag": "Application Security Groups",
       "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Application_Security_Groups.png"
     }
+  ],
+  "relationships":[
+    {
+      "tag": "Sync",
+      "style": "solid"
+    },
+    {
+      "tag": "Async",
+      "styles": "dashed"
+    },
+    {
+      "tag": "New",
+      "color": "#009E73"
+    },
+    {
+      "tag": "Modified",
+      "color": "#E69F00"
+    },
+    {
+      "tag": "Removed",
+      "color": "#D55E00"
+    }
   ]
   
 }

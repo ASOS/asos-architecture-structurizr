@@ -1018,11 +1018,11 @@
   "relationships":[
     {
       "tag": "Sync",
-      "style": "solid"
+      "style": "Solid"
     },
     {
       "tag": "Async",
-      "styles": "dashed"
+      "styles": "Dashed"
     },
     {
       "tag": "New",

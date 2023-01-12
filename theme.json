@@ -286,7 +286,7 @@
     },
     {
       "tag": "Async",
-      "styles": "Dashed"
+      "style": "Dashed"
     },
     {
       "tag": "New",

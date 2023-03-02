@@ -14,7 +14,7 @@
     {
       "tag": "Person",
       "background": "#9fc5e8",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/My_Customers.png"
+      "shape": "Person"
     },
     {
       "tag": "Software System",

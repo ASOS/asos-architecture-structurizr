@@ -1,1 +1,2 @@
 # Find .gitignore templates at: https://github.com/github/gitignore/
+.DS_Store

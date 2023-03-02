@@ -15,10 +15,10 @@ Include the theme reference in your structurizr DSL as follows:
 ## Standard Colours
 | element | Appearance |
 |---|---|
-| Person  | <img src="./images/customer.png" style="height: 150px" />  |
-| softwareSystem,| <img src="./images/software-system.png" style="height: 150px" />  |
-| container | <img src="./images/container.png" style="height: 150px" />  |
-| component  | <img src="./images/component.png" style="height: 150px" />  |
+| Person  | <img src="./images/customer.png" style="width: 200px" />  |
+| softwareSystem,| <img src="./images/software-system.png" style="width: 200px" />  |
+| container | <img src="./images/container.png" style="width: 200px" />  |
+| component  | <img src="./images/component.png" style="width: 200px" />  |
 
 
 ## Standard Tags

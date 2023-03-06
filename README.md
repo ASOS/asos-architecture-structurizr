@@ -84,6 +84,7 @@ Include the theme reference in your structurizr DSL as follows:
 | Network_Security_Groups_(Classic)  | <img src="./icons/Network_Security_Groups_(Classic).png" style="height: 40px"/> |
 | Queues_Storage  | <img src="./icons/Queues_Storage.png" style="height: 40px"/> |
 | Service_Fabric_Clusters  | <img src="./icons/Service_Fabric_Clusters.png" style="height: 40px"/> |
+| Sharepoint  | <img src="./icons/Sharepoint.png" style="height: 40px"/> |
 | SQL_Databases  | <img src="./icons/SQL_Databases.png" style="height: 40px"/> |
 | Storage_Accounts  | <img src="./icons/Storage_Accounts.png" style="height: 40px"/> |
 | Stream_Analytics_Jobs  | <img src="./icons/Stream_Analytics_Jobs.png" style="height: 40px"/> |

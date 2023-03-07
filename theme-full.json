@@ -1013,6 +1013,10 @@
     {
       "tag": "Azure Test Plans",
       "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Azure_Test_Plans.png"
+    },
+    {
+      "tag": "Sharepoint",
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/docs/icons/Sharepoint.png"
     }
   ],
   "relationships":[

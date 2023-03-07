@@ -277,6 +277,10 @@
     {
       "tag": "Application Security Groups",
       "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Application_Security_Groups.png"
+    },
+    {
+      "tag": "Sharepoint",
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/docs/icons/Sharepoint.png"
     }
   ],
   "relationships":[

@@ -280,7 +280,7 @@
     },
     {
       "tag": "Sharepoint",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/docs/icons/Sharepoint.png"
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Sharepoint.png"
     }
   ],
   "relationships":[

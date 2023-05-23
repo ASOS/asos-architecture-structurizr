@@ -1017,6 +1017,10 @@
     {
       "tag": "Sharepoint",
       "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Sharepoint.png"
+    },
+    {
+      "tag": "Synapse Dedicated Pool",
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Synapse_Dedicated_Pool.png"
     }
   ],
   "relationships":[

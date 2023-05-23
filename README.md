@@ -89,6 +89,7 @@ Include the theme reference in your structurizr DSL as follows:
 | Storage_Accounts  | <img src="./icons/Storage_Accounts.png" style="height: 40px"/> |
 | Stream_Analytics_Jobs  | <img src="./icons/Stream_Analytics_Jobs.png" style="height: 40px"/> |
 | Subscriptions  | <img src="./icons/Subscriptions.png" style="height: 40px"/> |
+| Synapse Dedicated Pool  | <img src="./icons/Synapse_Dedicated_Pool.png" style="height: 40px"/> |
 | Table_Storage  | <img src="./icons/Table_Storage.png" style="height: 40px"/> |
 | Traffic_Manager_Profiles  | <img src="./icons/Traffic_Manager_Profiles.png" style="height: 40px"/> |
 | Virtual_Networks  | <img src="./icons/Virtual_Networks.png" style="height: 40px"/> |

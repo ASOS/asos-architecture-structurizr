@@ -89,6 +89,7 @@ Include the theme reference in your structurizr DSL as follows:
 | Network_Security_Groups  | <img src="./icons/Network_Security_Groups.png" style="height: 40px"/> |
 | Network_Security_Groups_(Classic)  | <img src="./icons/Network_Security_Groups_(Classic).png" style="height: 40px"/> |
 | Networking_Restrictions  | <img src="./icons/Networking_Restrictions.png" style="height: 40px"/> |
+| Public_IP_Addresses  | <img src="./icons/Public_IP_Addresses.png" style="height: 40px"/> |
 | Queues_Storage  | <img src="./icons/Queues_Storage.png" style="height: 40px"/> |
 | Service_Endpoint_Policies  | <img src="./icons/Service_Endpoint_Policies.png" style="height: 40px"/> |
 | Service_Fabric_Clusters  | <img src="./icons/Service_Fabric_Clusters.png" style="height: 40px"/> |

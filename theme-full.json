@@ -1027,8 +1027,8 @@
       "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/NAT.png"
     },
     {
-      "tag": "Subnet",
-      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Subnet.png"
+      "tag": "Subnets",
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Subnets.png"
     },
     {
       "tag": "Networking Restrictions",

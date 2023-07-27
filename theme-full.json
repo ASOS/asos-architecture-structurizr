@@ -1021,6 +1021,30 @@
     {
       "tag": "Synapse Dedicated Pool",
       "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Synapse_Dedicated_Pool.png"
+    },
+    {
+      "tag": "NAT",
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/NAT.png"
+    },
+    {
+      "tag": "Subnet",
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Subnet.png"
+    },
+    {
+      "tag": "Networking Restrictions",
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Networking_Restrictions.png"
+    },
+    {
+      "tag": "Azure SQL VM",
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Azure_SQL_VM.png"
+    },
+    {
+      "tag": "Azure Fileshares",
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Azure_Fileshares.png"
+    },
+    {
+      "tag": "Azure",
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Azure_A.png"
     }
   ],
   "relationships":[

@@ -40,22 +40,26 @@ Include the theme reference in your structurizr DSL as follows:
 | Active_Directory  | <img src="./icons/Active_Directory.png" style="height: 40px"/> |
 | API_Management_Services  | <img src="./icons/API_Management_Services.png" style="height: 40px"/> |
 | App_Service_Environments  | <img src="./icons/App_Service_Environments.png" style="height: 40px"/> |
+| App_Service_Plans | <img src="./icons/App_Service_Plans.png" style="height: 40px"> 
 | App_Services  | <img src="./icons/App_Services.png" style="height: 40px"/> |
 | Application_Gateway  | <img src="./icons/Application_Gateway.png" style="height: 40px"/> |
 | Application_Insights  | <img src="./icons/Application_Insights.png" style="height: 40px"/> |
 | Archive_Storage  | <img src="./icons/Archive_Storage.png" style="height: 40px"/> |
 | Automation_Accounts  | <img src="./icons/Automation_Accounts.png" style="height: 40px"/> |
+| Azure_A | <img src="./icons/Azure_A.png" style="height: 40px"/> |
 | Azure_Cache_for_Redis  | <img src="./icons/Azure_Cache_for_Redis.png" style="height: 40px"/> |
 | Azure_Cache_plus_Redis  | <img src="./icons/Azure_Cache_plus_Redis.png" style="height: 40px"/> |
 | Azure_Cosmos_DB  | <img src="./icons/Azure_Cosmos_DB.png" style="height: 40px"/> |
 | Azure_Data_Catalog  | <img src="./icons/Azure_Data_Catalog.png" style="height: 40px"/> |
 | Azure_Database_(Generic)  | <img src="./icons/Azure_Database_(Generic).png" style="height: 40px"/> |
 | Azure_Databricks  | <img src="./icons/Azure_Databricks.png" style="height: 40px"/> |
+| Azure_Fileshares  | <img src="./icons/Azure_Fileshares.png" style="height: 40px"/> |
 | Azure_Firewall  | <img src="./icons/Azure_Firewall.png" style="height: 40px"/> |
 | Azure_Search  | <img src="./icons/Azure_Search.png" style="height: 40px"/> |
 | Azure_Service_Bus_Relays  | <img src="./icons/Azure_Service_Bus_Relays.png" style="height: 40px"/> |
 | Azure_Service_Bus  | <img src="./icons/Azure_Service_Bus.png" style="height: 40px"/> |
 | Azure_SQL_DataWarehouse  | <img src="./icons/Azure_SQL_DataWarehouse.png" style="height: 40px"/> |
+| Azure_SQL_VM  | <img src="./icons/Azure_SQL_VM.png" style="height: 40px"/> |
 | Azure_StorSimple_Device_Managers  | <img src="./icons/Azure_StorSimple_Device_Managers.png" style="height: 40px"/> |
 | Blob_Storage  | <img src="./icons/Blob_Storage.png" style="height: 40px"/> |
 | Cloud_Services  | <img src="./icons/Cloud_Services.png" style="height: 40px"/> |
@@ -81,13 +85,19 @@ Include the theme reference in your structurizr DSL as follows:
 | Local_Network_Gateways  | <img src="./icons/Local_Network_Gateways.png" style="height: 40px"/> |
 | Logic_Apps_Custom_Connector  | <img src="./icons/Logic_Apps_Custom_Connector.png" style="height: 40px"/> |
 | Logic_Apps  | <img src="./icons/Logic_Apps.png" style="height: 40px"/> |
+| NAT | <img src="./icons/NAT.png" style="height: 40px"/> |
+| Network_Security_Groups  | <img src="./icons/Network_Security_Groups.png" style="height: 40px"/> |
 | Network_Security_Groups_(Classic)  | <img src="./icons/Network_Security_Groups_(Classic).png" style="height: 40px"/> |
+| Networking_Restrictions  | <img src="./icons/Networking_Restrictions.png" style="height: 40px"/> |
+| Public_IP_Addresses  | <img src="./icons/Public_IP_Addresses.png" style="height: 40px"/> |
 | Queues_Storage  | <img src="./icons/Queues_Storage.png" style="height: 40px"/> |
+| Service_Endpoint_Policies  | <img src="./icons/Service_Endpoint_Policies.png" style="height: 40px"/> |
 | Service_Fabric_Clusters  | <img src="./icons/Service_Fabric_Clusters.png" style="height: 40px"/> |
 | Sharepoint  | <img src="./icons/Sharepoint.png" style="height: 40px"/> |
 | SQL_Databases  | <img src="./icons/SQL_Databases.png" style="height: 40px"/> |
 | Storage_Accounts  | <img src="./icons/Storage_Accounts.png" style="height: 40px"/> |
 | Stream_Analytics_Jobs  | <img src="./icons/Stream_Analytics_Jobs.png" style="height: 40px"/> |
+| Subnets  | <img src="./icons/Subnets.png" style="height: 40px"/> |
 | Subscriptions  | <img src="./icons/Subscriptions.png" style="height: 40px"/> |
 | Synapse Dedicated Pool  | <img src="./icons/Synapse_Dedicated_Pool.png" style="height: 40px"/> |
 | Table_Storage  | <img src="./icons/Table_Storage.png" style="height: 40px"/> |

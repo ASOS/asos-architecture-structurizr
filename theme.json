@@ -285,7 +285,48 @@
     {
       "tag": "Synapse Dedicated Pool",
       "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Synapse_Dedicated_Pool.png"
+    },
+    {
+      "tag": "NAT",
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/NAT.png"
+    },
+    {
+      "tag": "Subnets",
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Subnets.png"
+    },
+    {
+      "tag": "Service Endpoint Policies",
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Service_Endpoint_Policies.png"
+    },
+    {
+      "tag": "Public IP Addresses",
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Public_IP_Addresses.png"
+    },
+    {
+      "tag": "Networking Restrictions",
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Networking_Restrictions.png"
+    },
+    {
+      "tag": "Network Security Groups",
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Network_Security_Groups.png"
+    },
+    {
+      "tag": "Azure SQL VM",
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Azure_SQL_VM.png"
+    },
+    {
+      "tag": "Azure Fileshares",
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Azure_Fileshares.png"
+    },
+    {
+      "tag": "App Service Plans",
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/App_Service_Plans.png"
+    },
+    {
+      "tag": "Azure",
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Azure_A.png"
     }
+
   ],
   "relationships":[
     {

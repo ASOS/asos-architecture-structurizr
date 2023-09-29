@@ -80,6 +80,7 @@ Include the theme reference in your structurizr DSL as follows:
 | Function_Apps  | <img src="./icons/Function_Apps.png" style="height: 40px"/> |
 | General_Storage  | <img src="./icons/General_Storage.png" style="height: 40px"/> |
 | Key_Vaults  | <img src="./icons/Key_Vaults.png" style="height: 40px"/> |
+| Kubernetes_Node_Pools  | <img src="./icons/Kubernetes_Node_Pools.png" style="height: 40px"/> |
 | Kubernetes_Services  | <img src="./icons/Kubernetes_Services.png" style="height: 40px"/> |
 | Load_Balancers  | <img src="./icons/Load_Balancers.png" style="height: 40px"/> |
 | Local_Network_Gateways  | <img src="./icons/Local_Network_Gateways.png" style="height: 40px"/> |
@@ -102,6 +103,8 @@ Include the theme reference in your structurizr DSL as follows:
 | Synapse Dedicated Pool  | <img src="./icons/Synapse_Dedicated_Pool.png" style="height: 40px"/> |
 | Table_Storage  | <img src="./icons/Table_Storage.png" style="height: 40px"/> |
 | Traffic_Manager_Profiles  | <img src="./icons/Traffic_Manager_Profiles.png" style="height: 40px"/> |
+| Virtual_Machines | <img src="./icons/Virtual_Machines.png" style="height: 40px"/> |
+| Virtual_Network_Gateways | <img src="./icons/Virtual_Network_Gateways.png" style="height: 40px"/> |
 | Virtual_Networks  | <img src="./icons/Virtual_Networks.png" style="height: 40px"/> |
 
 ## Contributing

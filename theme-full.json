@@ -1035,6 +1035,10 @@
       "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Networking_Restrictions.png"
     },
     {
+      "tag": "Network Security Groups",
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Network_Security_Groups.png"
+    },
+    {
       "tag": "Azure SQL VM",
       "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Azure_SQL_VM.png"
     },
@@ -1045,6 +1049,14 @@
     {
       "tag": "Azure",
       "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Azure_A.png"
+    },
+    {
+      "tag": "Kubernetes Node Pools",
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Kubernetes_Node_Pools.png"
+    },
+    {
+      "tag": "Virtual Machines",
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Virtual_Machines.png"
     }
   ],
   "relationships":[

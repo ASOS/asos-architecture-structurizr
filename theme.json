@@ -325,8 +325,11 @@
     {
       "tag": "Azure",
       "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Azure_A.png"
+    },
+    {
+      "tag": "Power BI",
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Power_BI.png"
     }
-
   ],
   "relationships":[
     {

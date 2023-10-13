@@ -1057,7 +1057,12 @@
     {
       "tag": "Virtual Machines",
       "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Virtual_Machines.png"
+    },
+    {
+      "tag": "Power BI",
+      "icon": "https://raw.githubusercontent.com/ASOS/asos-architecture-structurizr/main/icons/Power_BI.png"
     }
+
   ],
   "relationships":[
     {
